@@ -1,0 +1,12 @@
+.lista {
+    list-style: none;
+    color: #333333;
+    text-transform: capitalize;
+
+}
+.btn {
+    background-color: aquamarine;
+    border-radius: 12px;
+    padding: 5px 12px;
+    color: white;
+}
